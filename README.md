@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Currently learning data science with a focus on NLP at Bloomtech.
-- 🎓 &nbsp; B.S. Psychology, BYU. M.S. Instructional Psychology and Technology, BYU. 
-- 💼 &nbsp; Working as a science teacher at a private school, Ivy Hall Academy.
+- 🤔 &nbsp; Currently learning data science with a focus on NLP at [Bloomtech](https://www.bloomtech.com/).
+- 🎓 &nbsp; B.S. Psychology, BYU. M.S. [Instructional Psychology and Technology](https://education.byu.edu/ipt/program/masters), BYU. 
+- 💼 &nbsp; Working as a science teacher at a private school, [Ivy Hall Academy](https://ivyhallacademy.org/).
 - 🌱 &nbsp; Learning more about breaking into NLP more broadly to work with conversational AI models
 - ✍️ &nbsp; Life goal is to create a conversational AI math teacher
 - 🤝 &nbsp; Connect with me on [Linkedin](https://www.linkedin.com/in/christopher--cardenas/) or email me at [Gmail](mailto:422christopher@gmail.com)
