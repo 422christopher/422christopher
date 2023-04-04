@@ -8,7 +8,7 @@
 - 💼 &nbsp; Working as a science teacher at a private school, [Ivy Hall Academy](https://ivyhallacademy.org/).
 - 🌱 &nbsp; Learning more about breaking into NLP more broadly to work with conversational AI models
 - ✍️ &nbsp; Life goal is to create a quality, conversational AI math teacher
-- 🤝 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/christopher--cardenas/) or email me at [Gmail](mailto:422christopher@gmail.com)
+- 🤝 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/422christopher/) or email me at [Gmail](mailto:422christopher@gmail.com)
 
 <h3> 📌 &nbsp;About Me </h3>
 
@@ -37,4 +37,4 @@
 
 <h3> 🤝 &nbsp;Let's Connect!</h3>
 
-Here's my [Linkedin](https://www.linkedin.com/in/christopher--cardenas/) or email me at [422christopher@gmail.com](mailto:422christopher@gmail.com)
+Here's my [Linkedin](https://www.linkedin.com/in/422christopher/) or email me at [422christopher@gmail.com](mailto:422christopher@gmail.com)
