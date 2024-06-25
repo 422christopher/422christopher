@@ -2,12 +2,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;Quick Overview </h3>
 
-- 🤔 &nbsp; Currently learning data science with a focus on NLP at [Bloomtech](https://www.bloomtech.com/).
+- 🎓 &nbsp; Data Science and Machine Learning Certificate from [Bloomtech](https://www.bloomtech.com/).
 - 🎓 &nbsp; B.S. Psychology, BYU
 - 🎓 &nbsp; M.S. Instructional Psychology and Technology, BYU. 📜 [Thesis Research](https://scholarsarchive.byu.edu/etd/8406/)
+- 🏫 &nbsp; Currently studying Master's in Computer Science at [Utah Valley University](https://www.uvu.edu/).
 - 💼 &nbsp; Working as a science teacher at a private school, [Ivy Hall Academy](https://ivyhallacademy.org/).
 - 🌱 &nbsp; Learning more about breaking into NLP more broadly to work with conversational AI models
-- ✍️ &nbsp; Life goal is to create a quality, conversational AI math teacher
+- ✍️ &nbsp; Career goal is to create a quality, conversational AI math teacher
 - 🤝 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/422christopher/) or email me at [Gmail](mailto:422christopher@gmail.com)
 
 <h3> 📌 &nbsp;About Me </h3>
